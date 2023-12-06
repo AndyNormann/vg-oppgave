@@ -1,0 +1,10 @@
+#root {
+  width: 720px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.entry {
+  text-align: left;
+  margin: 5px 0;
+}
